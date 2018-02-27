@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="960aa6ca-ee35-4bf4-88c3-977fd28dff5c" name="Default" comment="Complete Chapter 3">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/test/TDDBook/MoneyTest.class" afterPath="$PROJECT_DIR$/out/test/TDDBook/MoneyTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/java/Dollar.java" afterPath="$PROJECT_DIR$/src/java/Dollar.java" />
+      <change beforePath="$PROJECT_DIR$/src/java/Franc.java" afterPath="$PROJECT_DIR$/src/java/Franc.java" />
       <change beforePath="$PROJECT_DIR$/src/java/Money.java" afterPath="$PROJECT_DIR$/src/java/Money.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/DollarTest.java" afterPath="$PROJECT_DIR$/src/test/DollarTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/FrancTest.java" afterPath="$PROJECT_DIR$/src/test/FrancTest.java" />
       <change beforePath="$PROJECT_DIR$/src/test/MoneyTest.java" afterPath="$PROJECT_DIR$/src/test/MoneyTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,33 +39,35 @@
           <file leaf-file-name="DollarTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/DollarTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Dollar.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/java/Dollar.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
                   <folding>
-                    <element signature="e#58#59#0" expanded="true" />
-                    <element signature="e#94#95#0" expanded="true" />
-                    <element signature="e#129#130#0" expanded="true" />
-                    <element signature="e#183#184#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Franc.java" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Dollar.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/java/Dollar.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+                  <folding>
+                    <element signature="e#58#59#0" expanded="true" />
+                    <element signature="e#94#95#0" expanded="true" />
+                    <element signature="e#128#129#0" expanded="true" />
+                    <element signature="e#182#183#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Franc.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/java/Franc.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="30">
-                  <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                  <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
                   <folding>
                     <element signature="e#57#58#0" expanded="true" />
                     <element signature="e#93#94#0" expanded="true" />
@@ -77,9 +85,11 @@
           <file leaf-file-name="FrancTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/FrancTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
-                  <folding />
+                <state relative-caret-position="135">
+                  <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -87,8 +97,22 @@
           <file leaf-file-name="Money.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/java/Money.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+                <state relative-caret-position="120">
+                  <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#92#93#0" expanded="true" />
+                    <element signature="e#133#134#0" expanded="true" />
+                    <element signature="e#170#171#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
@@ -97,8 +121,8 @@
           <file leaf-file-name="MoneyTest.java" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/MoneyTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -138,11 +162,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/java/Dollar.java" />
         <option value="$PROJECT_DIR$/src/test/DollarTest.java" />
+        <option value="$PROJECT_DIR$/src/test/MoneyTest.java" />
         <option value="$PROJECT_DIR$/src/test/FrancTest.java" />
         <option value="$PROJECT_DIR$/src/java/Franc.java" />
-        <option value="$PROJECT_DIR$/src/java/Dollar.java" />
-        <option value="$PROJECT_DIR$/src/test/MoneyTest.java" />
         <option value="$PROJECT_DIR$/src/java/Money.java" />
       </list>
     </option>
@@ -154,8 +179,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="63" />
+    <option name="x" value="58" />
+    <option name="y" value="-828" />
     <option name="width" value="1293" />
     <option name="height" value="781" />
   </component>
@@ -186,13 +211,33 @@
             <path>
               <item name="TDDBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="TDDBook" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TDDBook" type="b2602c69:ProjectViewProjectNode" />
               <item name="TDDBook" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDDBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDDBook" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="TDDBook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDDBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDDBook" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TDDBook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TDDBook" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="TDDBook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TDDBook" type="b2602c69:ProjectViewProjectNode" />
@@ -465,7 +510,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517454907852</updated>
-      <workItem from="1517454912135" duration="7470000" />
+      <workItem from="1517454912135" duration="9238000" />
     </task>
     <servers />
   </component>
@@ -479,14 +524,14 @@
     <history-entry file="All_in_TDDBook - 2018.02.18 at 19h 53m 14s.xml">
       <configuration name="All in TDDBook" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DollarTest - 2018.02.17 at 16h 31m 08s.xml">
-      <configuration name="DollarTest" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_TDDBook - 2018.02.18 at 20h 05m 49s.xml">
+      <configuration name="All in TDDBook" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DollarTest - 2018.02.18 at 19h 10m 35s.xml">
-      <configuration name="DollarTest" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_TDDBook - 2018.02.26 at 22h 13m 38s.xml">
+      <configuration name="All in TDDBook" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DollarTest - 2018.02.18 at 19h 30m 39s.xml">
-      <configuration name="DollarTest" configurationId="AndroidJUnit" />
+    <history-entry file="All_in_TDDBook - 2018.02.26 at 22h 26m 56s.xml">
+      <configuration name="All in TDDBook" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FrancTest - 2018.02.18 at 19h 30m 47s.xml">
       <configuration name="FrancTest" configurationId="JUnit" />
@@ -502,10 +547,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7470000" />
+    <option name="totallyTimeSpent" value="9238000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="63" width="1293" height="781" extended-state="0" />
+    <frame x="58" y="-828" width="1293" height="781" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -579,31 +624,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/DollarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/FrancTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="135">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/Dollar.java">
+    <entry file="file://$PROJECT_DIR$/src/test/MoneyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -611,7 +665,7 @@
     <entry file="file://$PROJECT_DIR$/src/java/Franc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding>
             <element signature="e#57#58#0" expanded="true" />
             <element signature="e#93#94#0" expanded="true" />
@@ -621,21 +675,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/MoneyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/java/Dollar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="53" lean-forward="false" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state relative-caret-position="90">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#58#59#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
